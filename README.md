@@ -1,1 +1,1 @@
-# Binary_Classification_of_the_Subscription_of_Bank_Product
+# Binary Classification to Determine the Subscription of Bank Product
